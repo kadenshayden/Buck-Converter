@@ -519,7 +519,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Buck_Convert.kicad_pro",
+    "filename": "Buck_Converter.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -735,8 +735,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Buck_Convert.kicad_sch",
-        "name": "Root",
+        "filename": "Buck_Converter.kicad_sch",
+        "name": "Buck_Converter",
         "uuid": "17eb3f79-e8aa-4e7a-b21f-2dc7618e3238"
       }
     ],
@@ -746,23 +746,23 @@
   "sheets": [
     [
       "17eb3f79-e8aa-4e7a-b21f-2dc7618e3238",
-      "Root"
+      "Buck_Converter"
     ],
     [
-      "981a1cbd-e1ca-4d1f-af44-4067b91e2e5d",
-      "Switching Circuit"
-    ],
-    [
-      "80ac00da-f42d-493a-af7f-c1e999ed689f",
+      "530fe876-815e-44b9-8ca6-24e5d3cc208d",
       "Connectors"
     ],
     [
-      "550467cc-3add-47f0-98bb-25a680a630b0",
-      "Error Amplifier"
+      "5ac586d0-46e1-46e3-af4e-7944ed7337c8",
+      "Fusing"
     ],
     [
-      "9eff2c81-a217-4333-9709-0928429b2665",
-      "Fusing"
+      "2267cfb7-a8ec-4dbd-8f0a-cef8ecf46eed",
+      "Power"
+    ],
+    [
+      "bf99d974-c29d-4e85-96d7-fbf9f6cf6e14",
+      "Filter"
     ]
   ],
   "text_variables": {},
