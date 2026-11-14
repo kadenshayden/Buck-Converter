@@ -5290,7 +5290,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CONN_SD-172448-0000_02_MOL"
+		(property "Footprint" "Molex_2P:CONN_SD-172448-0000_02_MOL"
 			(at 54.61 222.25 0)
 			(hide yes)
 			(show_name no)
@@ -6995,7 +6995,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "610ee1da-e0dd-477e-b72d-36d56d6ac1ee")
-		(property "Reference" "F2"
+		(property "Reference" "F3"
 			(at 189.23 220.98 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7015,7 +7015,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
 			(at 189.23 225.552 90)
 			(hide yes)
 			(show_name no)
@@ -7057,7 +7057,7 @@
 		(instances
 			(project "Buck_Convert"
 				(path "/17eb3f79-e8aa-4e7a-b21f-2dc7618e3238"
-					(reference "F2")
+					(reference "F3")
 					(unit 1)
 				)
 			)
@@ -10209,7 +10209,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
 			(at 189.23 216.662 90)
 			(hide yes)
 			(show_name no)
@@ -10269,7 +10269,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e54d1583-446c-4f05-bb60-7be73952dbbe")
-		(property "Reference" "F3"
+		(property "Reference" "F4"
 			(at 189.23 229.87 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10289,7 +10289,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
 			(at 189.23 234.442 90)
 			(hide yes)
 			(show_name no)
@@ -10331,7 +10331,7 @@
 		(instances
 			(project "Buck_Convert"
 				(path "/17eb3f79-e8aa-4e7a-b21f-2dc7618e3238"
-					(reference "F3")
+					(reference "F4")
 					(unit 1)
 				)
 			)
