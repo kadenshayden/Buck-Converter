@@ -1,7 +1,0 @@
-(sym_lib_table
-	(version 7)
-	(lib (name "TPS40200D") (type "KiCad") (uri "${KIPRJMOD}/TPS40200D/TPS40200D.kicad_sym") (options "") (descr ""))
-	(lib (name "AON6407") (type "KiCad") (uri "${KIPRJMOD}/AON6407/AON6407.kicad_sym") (options "") (descr ""))
-	(lib (name "EEETC1E221UP") (type "KiCad") (uri "${KIPRJMOD}/EEE_TC1E221UP/EEETC1E221UP.kicad_sym") (options "") (descr ""))
-	(lib (name "SSC54-E3/57T") (type "KiCad") (uri "${KIPRJMOD}/SSC54_E3_57T/KiCADv6/2026-11-09_16-48-20.kicad_sym") (options "") (descr ""))
-)
