@@ -1,0 +1,55 @@
+(ExpressProject "TPS40200_AVG"
+  (ProjectVersion "19981106")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\tps40200_avg.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\tps40200_avg.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (PSPICE_Regenerate_Netlist_Flag "FALSE"))
+  (Folder "Outputs")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles"
+      (ActiveProfile ".\tps40200_avg-pspicefiles\schematic1\ac_tb.sim")
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\tps40200_avg-pspicefiles\schematic1\ac_tb.sim"
+        (DisplayName "SCHEMATIC1-AC_TB")
+        (Type "PSpice Profile")))
+    (Folder "Model Libraries"
+      (Sort User)
+      (File ".\tps40200_avg.lib"
+        (Type "PSpiceLibrary")
+        (DisplayName ".\tps40200_avg.lib")))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector
+    (TPS40200_AVG
+      (FullPartName "TPS40200_AVG.Normal")
+      (LibraryName
+         "C:\ELABTRANS_WS\ELABTRANS_DS\PART_NUMBERS\TPS40200\RELEASE_SANKALP\PSPICE\TPS40200_PSPICE_AVG\TPS40200_AVG.OLB")
+      (DeviceIndex "0"))
+    (TPS40200AVG
+      (FullPartName "TPS40200AVG.Normal")
+      (LibraryName
+         "C:\ELABTRANS_WS\ELABTRANS_DS\PART_NUMBERS\TPS40200\RELEASE_SANKALP\PSPICE\TPS40200_PSPICE_AVG\TPS40200_AVG.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\ELABTRANS_WS\ELABTRANS_DS\Part_Numbers\TPS40200\Release_Sankalp\PSPICE\TPS40200_PSPICE_AVG\tps40200_avg.dsn")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 0 200 0 424"))
+      (Tab 0)))
+  (MPSSessionName "x0146066"))
