@@ -5622,7 +5622,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CONN_SD-172648-0000_03_MOL"
+		(property "Footprint" "Molex_3P:CONN_SD-172648-0000_03_MOL"
 			(at 105.41 224.79 0)
 			(hide yes)
 			(show_name no)
@@ -5953,7 +5953,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "DIODE_DO214AB"
+		(property "Footprint" "Diode_SMD:D_SMC"
 			(at 173.99 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -7910,7 +7910,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "DIODE_DO214AB"
+		(property "Footprint" "Diode_SMD:D_SMC"
 			(at 147.32 87.63 0)
 			(hide yes)
 			(show_name no)
