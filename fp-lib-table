@@ -4,4 +4,6 @@
 	(lib (name "AON6407") (type "KiCad") (uri "${KIPRJMOD}/AON6407") (options "") (descr ""))
 	(lib (name "EEE_TC1E221UP") (type "KiCad") (uri "${KIPRJMOD}/EEE_TC1E221UP") (options "") (descr ""))
 	(lib (name "L1_Footprint") (type "KiCad") (uri "${KIPRJMOD}/L1_Footprint/Bourns_SRP1038AA.pretty") (options "") (descr ""))
+	(lib (name "Molex_2P") (type "KiCad") (uri "${KIPRJMOD}/ul_1724480002/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "Molex_3P") (type "KiCad") (uri "${KIPRJMOD}/ul_1726480103/KiCADv6/footprints.pretty") (options "") (descr ""))
 )
